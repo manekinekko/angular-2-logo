@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<VisioDocument xmlns="http://schemas.microsoft.com/visio/2003/core">
+  <DocumentSettings>
+    <GlueSettings>12</GlueSettings>
+    <SnapSettings>52</SnapSettings>
+  </DocumentSettings>
+  <PrintSetup>
+    <PaperWidth>11.1944</PaperWidth>
+    <PaperHeight>15.7222</PaperHeight>
+    <PrintLandscape>0</PrintLandscape>
+    <PageLeftMargin>0.25</PageLeftMargin>
+    <PageRightMargin>0.25</PageRightMargin>
+    <PageTopMargin>0.25</PageTopMargin>
+    <PageBottomMargin>0.569444</PageBottomMargin>
+    <PrintCenteredH>1</PrintCenteredH>
+    <PrintCenteredV>1</PrintCenteredV>
+  </PrintSetup>
+  <Fonts>
+    <FontEntry ID="0" Name="Futura"/>
+  </Fonts>
+  <FaceNames>
+    <FaceName ID="0" Name="Futura"/>
+  </FaceNames>
+  <Pages>
+    <Page ID="0" NameU="Canvas 1">
+      <PageSheet>
+        <RulerGrid>
+          <XGridSpacing>0.138889</XGridSpacing>
+          <YGridSpacing>0.138889</YGridSpacing>
+        </RulerGrid>
+        <PageProps>
+          <PageScale>1</PageScale>
+          <DrawingScale>1</DrawingScale>
+          <PageWidth>11.1944</PageWidth>
+          <PageHeight>15.7222</PageHeight>
+          <DrawingSizeType>3</DrawingSizeType>
+          <ShdwOffsetX>0</ShdwOffsetX>
+          <ShdwOffsetY>0</ShdwOffsetY>
+        </PageProps>
+        <Layer IX="0">
+          <Name>Layer 1</Name>
+          <Visible>1</Visible>
+          <Print>1</Print>
+          <Lock>0</Lock>
+        </Layer>
+      </PageSheet>
+      <Shapes>
+        <Shape ID="1" Type="Group" Name="Group.1">
+          <XForm>
+            <Angle>-0</Angle>
+            <PinX>5.547285072657253</PinX>
+            <PinY>8.364118590564589</PinY>
+            <Width>9.692831308339462</Width>
+            <Height>10.22801831309452</Height>
+            <LocPinX>4.846415654169731</LocPinX>
+            <LocPinY>5.114009156547259</LocPinY>
+          </XForm>
+          <Layout>
+            <ConLineJumpCode>4</ConLineJumpCode>
+            <ConLineJumpStyle>0</ConLineJumpStyle>
+            <ShapeRouteStyle>2</ShapeRouteStyle>
+            <ConFixedCode>2</ConFixedCode>
+            <ConLineRouteExt>1</ConLineRouteExt>
+          </Layout>
+          <TextXForm>
+            <TxtPinX F="Width*0.000000">0</TxtPinX>
+            <TxtPinY F="Height*0.000000">0</TxtPinY>
+            <TxtWidth F="Width*1.000000">9.692831308339462</TxtWidth>
+            <TxtHeight F="Height*1.000000">10.22801831309452</TxtHeight>
+            <TxtLocPinX>0</TxtLocPinX>
+            <TxtLocPinY>0</TxtLocPinY>
+          </TextXForm>
+          <Misc>
+            <ObjType>1</ObjType>
+          </Misc>
+          <LayerMem>
+            <LayerMember>0</LayerMember>
+          </LayerMem>
+          <Shapes>
+            <Shape ID="2" Type="Group" Name="Group.2">
+              <XForm>
+                <Angle>-0</Angle>
+                <PinX>4.846415654169731</PinX>
+                <PinY>5.114009156547259</PinY>
+                <Width>9.692831308339462</Width>
+                <Height>10.22801831309452</Height>
+                <LocPinX>4.846415654169731</LocPinX>
+                <LocPinY>5.114009156547259</LocPinY>
+              </XForm>
+              <Layout>
+                <ConLineJumpCode>4</ConLineJumpCode>
+                <ConLineJumpStyle>0</ConLineJumpStyle>
+                <ShapeRouteStyle>2</ShapeRouteStyle>
+                <ConFixedCode>2</ConFixedCode>
+                <ConLineRouteExt>1</ConLineRouteExt>
+              </Layout>
+              <TextXForm>
+                <TxtPinX F="Width*0.000000">0</TxtPinX>
+                <TxtPinY F="Height*0.000000">0</TxtPinY>
+                <TxtWidth F="Width*1.000000">9.692831308339462</TxtWidth>
+                <TxtHeight F="Height*1.000000">10.22801831309452</TxtHeight>
+                <TxtLocPinX>0</TxtLocPinX>
+                <TxtLocPinY>0</TxtLocPinY>
+              </TextXForm>
+              <Misc>
+                <ObjType>1</ObjType>
+              </Misc>
+              <LayerMem>
+                <LayerMember>0</LayerMember>
+              </LayerMem>
+              <Shapes>
+                <Shape ID="3" Type="Group" Name="Group.3">
+                  <XForm>
+                    <Angle>-0</Angle>
+                    <PinX>4.846415654169731</PinX>
+                    <PinY>5.114009156547259</PinY>
+                    <Width>9.692831308339462</Width>
+                    <Height>10.22801831309452</Height>
+                    <LocPinX>4.846415654169731</LocPinX>
+                    <LocPinY>5.114009156547259</LocPinY>
+                  </XForm>
+                  <Layout>
+                    <ConLineJumpCode>4</ConLineJumpCode>
+                    <ConLineJumpStyle>0</ConLineJumpStyle>
+                    <ShapeRouteStyle>2</ShapeRouteStyle>
+                    <ConFixedCode>2</ConFixedCode>
+                    <ConLineRouteExt>1</ConLineRouteExt>
+                  </Layout>
+                  <TextXForm>
+                    <TxtPinX F="Width*0.000000">0</TxtPinX>
+                    <TxtPinY F="Height*0.000000">0</TxtPinY>
+                    <TxtWidth F="Width*1.000000">9.692831308339462</TxtWidth>
+                    <TxtHeight F="Height*1.000000">10.22801831309452</TxtHeight>
+                    <TxtLocPinX>0</TxtLocPinX>
+                    <TxtLocPinY>0</TxtLocPinY>
+                  </TextXForm>
+                  <Misc>
+                    <ObjType>1</ObjType>
+                  </Misc>
+                  <LayerMem>
+                    <LayerMember>0</LayerMember>
+                  </LayerMem>
+                  <Shapes>
+                    <Shape ID="4" Type="Shape" Name="Custom Fill:Red Fill:Red.4">
+                      <XForm>
+                        <Angle>-3.141593</Angle>
+                        <PinX>4.846415654169714</PinX>
+                        <PinY>5.114009156547133</PinY>
+                        <Width>9.692831308339429</Width>
+                        <Height>10.22801831309425</Height>
+                        <LocPinX>4.846415654169714</LocPinX>
+                        <LocPinY>5.114009156547125</LocPinY>
+                      </XForm>
+                      <TextXForm>
+                        <TxtPinX F="Width*0.000000">0</TxtPinX>
+                        <TxtPinY F="Height*0.006790">0.06944444444444445</TxtPinY>
+                        <TxtWidth F="Width*1.000000">9.692831308339429</TxtWidth>
+                        <TxtHeight F="Height*0.986421">10.08912942420536</TxtHeight>
+                        <TxtLocPinX>0</TxtLocPinX>
+                        <TxtLocPinY>0</TxtLocPinY>
+                      </TextXForm>
+                      <Misc>
+                        <ObjType>1</ObjType>
+                      </Misc>
+                      <Line>
+                        <LinePattern>0</LinePattern>
+                        <LineWeight>0.0138889</LineWeight>
+                        <LineColor>0</LineColor>
+                        <LineColorTrans>0</LineColorTrans>
+                        <Rounding>0</Rounding>
+                        <LineCap>0</LineCap>
+                      </Line>
+                      <Fill>
+                        <FillPattern>1</FillPattern>
+                        <FillForegnd>#d71a2b</FillForegnd>
+                        <FillForegndTrans>0</FillForegndTrans>
+                        <ShdwPattern>0</ShdwPattern>
+                        <ShdwForegnd>0</ShdwForegnd>
+                        <ShdwForegndTrans>0.5</ShdwForegndTrans>
+                        <ShapeShdwType>1</ShapeShdwType>
+                        <ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+                        <ShapeShdwOffsetY>-0.0277778</ShapeShdwOffsetY>
+                      </Fill>
+                      <Geom IX="0">
+                        <NoFill>0</NoFill>
+                        <NoLine>0</NoLine>
+                        <MoveTo IX="1">
+                          <X F="Width*0.507104">4.915270197731555</X>
+                          <Y F="Height*1.000000">10.22801831309425</Y>
+                        </MoveTo>
+                        <LineTo IX="2">
+                          <X F="Width*0.920245">8.919783412582246</X>
+                          <Y F="Height*0.779070">7.968339848573588</Y>
+                        </LineTo>
+                        <LineTo IX="3">
+                          <X F="Width*1.000000">9.692831308339429</X>
+                          <Y F="Height*0.162791">1.665026237015362</Y>
+                        </LineTo>
+                        <LineTo IX="4">
+                          <X F="Width*0.503067">4.876148265544966</X>
+                          <Y F="Height*0.000000">0</Y>
+                        </LineTo>
+                        <LineTo IX="5">
+                          <X F="Width*-0.000000">-1.578983857244667e-15</X>
+                          <Y F="Height*0.162791">1.665026237015519</Y>
+                        </LineTo>
+                        <LineTo IX="6">
+                          <X F="Width*0.079755">0.7730478957571054</X>
+                          <Y F="Height*0.779070">7.968339848573638</Y>
+                        </LineTo>
+                        <LineTo IX="7">
+                          <X F="Width*0.507104">4.915270197731555</X>
+                          <Y F="Height*1.000000">10.22801831309425</Y>
+                        </LineTo>
+                      </Geom>
+                      <LayerMem>
+                        <LayerMember>0</LayerMember>
+                      </LayerMem>
+                    </Shape>
+                    <Shape ID="5" Type="Shape" Name="Graphic.5">
+                      <XForm>
+                        <Angle>-3.141593</Angle>
+                        <PinX>7.22502456419165</PinX>
+                        <PinY>5.114009156547259</PinY>
+                        <Width>4.935613488295624</Width>
+                        <Height>10.22801831309452</Height>
+                        <LocPinX>2.467806744147812</LocPinX>
+                        <LocPinY>5.11400915654726</LocPinY>
+                      </XForm>
+                      <TextXForm>
+                        <TxtPinX F="Width*0.000000">0</TxtPinX>
+                        <TxtPinY F="Height*0.006790">0.06944444444444445</TxtPinY>
+                        <TxtWidth F="Width*1.000000">4.935613488295624</TxtWidth>
+                        <TxtHeight F="Height*0.986421">10.08912942420563</TxtHeight>
+                        <TxtLocPinX>0</TxtLocPinX>
+                        <TxtLocPinY>0</TxtLocPinY>
+                      </TextXForm>
+                      <Misc>
+                        <ObjType>1</ObjType>
+                      </Misc>
+                      <Line>
+                        <LinePattern>0</LinePattern>
+                        <LineWeight>0.0138889</LineWeight>
+                        <LineColor>0</LineColor>
+                        <LineColorTrans>0</LineColorTrans>
+                        <Rounding>0</Rounding>
+                        <LineCap>0</LineCap>
+                      </Line>
+                      <Fill>
+                        <FillPattern>1</FillPattern>
+                        <FillForegnd>#a41c26</FillForegnd>
+                        <FillForegndTrans>0</FillForegndTrans>
+                        <ShdwPattern>0</ShdwPattern>
+                        <ShdwForegnd>0</ShdwForegnd>
+                        <ShdwForegndTrans>0.5</ShdwForegndTrans>
+                        <ShapeShdwType>1</ShapeShdwType>
+                        <ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+                        <ShapeShdwOffsetY>-0.0277778</ShapeShdwOffsetY>
+                      </Fill>
+                      <Geom IX="0">
+                        <NoFill>0</NoFill>
+                        <NoLine>0</NoLine>
+                        <MoveTo IX="1">
+                          <X F="Width*0.995878">4.915270197731606</X>
+                          <Y F="Height*1.000000">10.22801831309434</Y>
+                        </MoveTo>
+                        <LineTo IX="2">
+                          <X F="Width*1.000000">4.935613488295626</X>
+                          <Y F="Height*1.000000">10.22801831309452</Y>
+                        </LineTo>
+                        <LineTo IX="3">
+                          <X F="Width*0.987952">4.876148265544519</X>
+                          <Y F="Height*0.000000">0</Y>
+                        </LineTo>
+                        <LineTo IX="4">
+                          <X F="Width*0.000000">1.578983857244667e-15</X>
+                          <Y F="Height*0.162791">1.665026237015561</Y>
+                        </LineTo>
+                        <LineTo IX="5">
+                          <X F="Width*0.156627">0.7730478957572634</X>
+                          <Y F="Height*0.779070">7.968339848573712</Y>
+                        </LineTo>
+                        <LineTo IX="6">
+                          <X F="Width*0.995878">4.915270197731606</X>
+                          <Y F="Height*1.000000">10.22801831309434</Y>
+                        </LineTo>
+                      </Geom>
+                      <LayerMem>
+                        <LayerMember>0</LayerMember>
+                      </LayerMem>
+                    </Shape>
+                  </Shapes>
+                </Shape>
+                <Shape ID="6" Type="Shape" Name="Rectangle No Fill No Fill.6">
+                  <XForm>
+                    <Angle>-0</Angle>
+                    <PinX>4.756831649055122</PinX>
+                    <PinY>5.834463968210817</PinY>
+                    <Width>7.979296510305738</Width>
+                    <Height>7.669584127708652</Height>
+                    <LocPinX>3.989648255152869</LocPinX>
+                    <LocPinY>3.834792063854326</LocPinY>
+                  </XForm>
+                  <TextXForm>
+                    <TxtPinX F="Width*0.000000">0</TxtPinX>
+                    <TxtPinY F="Height*0.009055">0.06944444444444445</TxtPinY>
+                    <TxtWidth F="Width*1.000000">7.979296510305738</TxtWidth>
+                    <TxtHeight F="Height*0.981891">7.530695238819764</TxtHeight>
+                    <TxtLocPinX>0</TxtLocPinX>
+                    <TxtLocPinY>0</TxtLocPinY>
+                  </TextXForm>
+                  <Misc>
+                    <ObjType>1</ObjType>
+                  </Misc>
+                  <Line>
+                    <LinePattern>0</LinePattern>
+                    <LineWeight>0.0138889</LineWeight>
+                    <LineColor>0</LineColor>
+                    <LineColorTrans>0</LineColorTrans>
+                    <Rounding>0</Rounding>
+                    <LineCap>0</LineCap>
+                  </Line>
+                  <Fill>
+                    <FillPattern>0</FillPattern>
+                    <FillForegnd>#ffffff</FillForegnd>
+                    <FillForegndTrans>0</FillForegndTrans>
+                    <ShdwPattern>0</ShdwPattern>
+                    <ShdwForegnd>0</ShdwForegnd>
+                    <ShdwForegndTrans>0.5</ShdwForegndTrans>
+                    <ShapeShdwType>1</ShapeShdwType>
+                    <ShapeShdwOffsetX>0</ShapeShdwOffsetX>
+                    <ShapeShdwOffsetY>-0.0277778</ShapeShdwOffsetY>
+                  </Fill>
+                  <Geom IX="0">
+                    <NoFill>0</NoFill>
+                    <NoLine>0</NoLine>
+                    <MoveTo IX="1">
+                      <X F="Width*0.000000">0</X>
+                      <Y F="Height*1.000000">7.669584127708652</Y>
+                    </MoveTo>
+                    <LineTo IX="2">
+                      <X F="Width*1.000000">7.979296510305738</X>
+                      <Y F="Height*1.000000">7.669584127708652</Y>
+                    </LineTo>
+                    <LineTo IX="3">
+                      <X F="Width*1.000000">7.979296510305738</X>
+                      <Y F="Height*0.000000">0</Y>
+                    </LineTo>
+                    <LineTo IX="4">
+                      <X F="Width*0.000000">0</X>
+                      <Y F="Height*0.000000">0</Y>
+                    </LineTo>
+                    <LineTo IX="5">
+                      <X F="Width*0.000000">0</X>
+                      <Y F="Height*1.000000">7.669584127708652</Y>
+                    </LineTo>
+                  </Geom>
+                  <LayerMem>
+                    <LayerMember>0</LayerMember>
+                  </LayerMem>
+                  <Connection ID="0">
+                    <X F="Width*0.428964">3.422828502125211</X>
+                    <Y F="Width*0.852525">6.802548909076841</Y>
+                    <Type>0</Type>
+                  </Connection>
+                  <TextBlock>
+                    <LeftMargin>0.0694444</LeftMargin>
+                    <RightMargin>0.0694444</RightMargin>
+                    <VerticalAlign>1</VerticalAlign>
+                    <DefaultTabStop>0</DefaultTabStop>
+                  </TextBlock>
+                  <Char IX="0">
+                    <Font>0</Font>
+                    <Color>#ffffff</Color>
+                    <Style>0</Style>
+                    <Size>8.33333</Size>
+                    <ColorTrans>0</ColorTrans>
+                  </Char>
+                  <Para IX="0">
+                    <IndFirst>0</IndFirst>
+                    <IndLeft>0</IndLeft>
+                    <IndRight>-0</IndRight>
+                    <SpLine>-1.2</SpLine>
+                    <SpBefore>0</SpBefore>
+                    <HorzAlign>1</HorzAlign>
+                  </Para>
+                  <Text><cp IX="0"/><pp IX="0"/>A</Text>
+                </Shape>
+              </Shapes>
+            </Shape>
+          </Shapes>
+        </Shape>
+      </Shapes>
+      <Connects/>
+    </Page>
+  </Pages>
+  <Windows>
+    <Window ID="0" WindowType="Drawing" ViewScale="0.5" WindowState="134217744" ContainerType="Page" Page="0" ViewCenterX="5.597222222222222" ViewCenterY="11.375">
+      <ShowRulers>1</ShowRulers>
+      <ShowGrid>1</ShowGrid>
+      <ShowPageBreaks>0</ShowPageBreaks>
+      <ShowConnectionPoints>0</ShowConnectionPoints>
+      <GlueSettings>12</GlueSettings>
+      <SnapSettings>54</SnapSettings>
+      <TabSplitterPos>0.5</TabSplitterPos>
+    </Window>
+  </Windows>
+</VisioDocument>
